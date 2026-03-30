@@ -1,0 +1,12 @@
+{
+  "name": "react-quality",
+  "version": "1.0.0",
+  "description": "Enforce React quality - no inline styles, accessibility checks, semantic HTML",
+  "author": {
+    "name": "Matt Hesketh",
+    "email": "matt@heskethwebdesign.co.uk"
+  },
+  "repository": "https://github.com/wrxck/react-quality",
+  "license": "MIT",
+  "keywords": ["react", "quality", "accessibility", "a11y", "semantic-html", "inline-styles"]
+}
